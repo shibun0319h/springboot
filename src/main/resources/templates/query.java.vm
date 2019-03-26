@@ -1,0 +1,10 @@
+package ka.shibun.springboot.query;
+
+import ka.shibun.springboot.util.BaseQuery;
+/**
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+public class ${table.entityName}Query extends BaseQuery{
+}

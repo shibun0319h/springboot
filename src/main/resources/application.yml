@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ssr
+    username: root
+    password: shibun
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  type-aliases-package: ka.shibun.springboot.domain,ka.shibun.springboot.query
